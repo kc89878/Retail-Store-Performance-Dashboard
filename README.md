@@ -1,6 +1,6 @@
 # Retail-Store-Performance-Dashboard
 
-Here is the final dashboard -->
+Here is the final dashboard ->
 https://public.tableau.com/app/profile/long.yin.chung/viz/SalesCustomerDashboards_17201681353930/SalesDashboard
 
 ## Introduction
