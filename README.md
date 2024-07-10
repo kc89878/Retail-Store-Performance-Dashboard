@@ -2,11 +2,10 @@
 
 Here is the final dashboard ->
 https://public.tableau.com/app/profile/long.yin.chung/viz/SalesCustomerDashboards_17201681353930/SalesDashboard
-![WhatsApp 圖片2024-07-0517 27 38_b4bfccbd](https://github.com/kc89878/Retail-Store-Performance-Dashboard/assets/79961717/3750ce4a-3ad2-4f42-a94f-9ca4c588e355)
-
 
 ## Introduction
 This user story outlines the specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers.
+![moma-retail-store-2-2](https://github.com/kc89878/Retail-Store-Performance-Dashboard/assets/79961717/3cb077ba-cd1f-4a7d-a1a2-4d75b063f7b9)
 
 ## Stakeholders Requirements
 ### 1. Sales dashboard
