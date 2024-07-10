@@ -65,5 +65,5 @@ Represent the distribution of customers based on the number of orders they have 
 #### Data Filters
 Allow users to filter data by product information like category and subcategory and by location information like region, state and city.
 
-
-It is a guided project created by "data with baraa"
+## Reference
+This project is guided by "data with baraa"
